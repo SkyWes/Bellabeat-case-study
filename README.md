@@ -13,7 +13,7 @@ I avoided doing uneccessary comparisons like exercise vs calories. The business 
 I compiled all manual logging data and did an analysis on frequency and consistency of manual logging. I made sure to adjust for 
 the fact that some users have more data than others when comparing and counting.
 
-##Key Findings
+## Key Findings
 People want to make a behavioural change but are inconsisent in setting goals and manually inputting data. It is well understood in psychology that important aspects of behaviour change are self-monitoring, and setting small goals.
 
 ## Recommendation
